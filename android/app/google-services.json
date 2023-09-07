@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233204256837",
+    "project_id": "music-player-37dcf",
+    "storage_bucket": "music-player-37dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233204256837:android:2b88d6bd8bcf7f7815932c",
+        "android_client_info": {
+          "package_name": "com.example.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233204256837-ib5c2b5oche98e6tivrb33vpko36bcfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn1PH3T1gWd3dEyIYeqMi0OGaRoQvLv9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233204256837-ib5c2b5oche98e6tivrb33vpko36bcfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
